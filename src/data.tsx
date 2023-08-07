@@ -60,37 +60,37 @@ export const links = [
 export const personalInfo = [
   {
     id: 1,
-    title: 'First Name : ',
+    title: 'Vorname : ',
     description: 'Yassine',
   },
 
   {
     id: 2,
-    title: 'Last Name : ',
+    title: 'Nachname : ',
     description: 'Akdim',
   },
 
   {
     id: 3,
-    title: 'Age : ',
+    title: 'Alter : ',
     description: '34 Years',
   },
 
   {
     id: 4,
-    title: 'Nationality : ',
-    description: 'German/Moroccan',
+    title: 'Staatsangehörigkeit : ',
+    description: 'German',
   },
 
   {
     id: 5,
     title: 'Freelance : ',
-    description: 'Available',
+    description: 'Verfügbar',
   },
 
   {
     id: 6,
-    title: 'Address : ',
+    title: 'Adresse : ',
     description: 'Ludwigshafen',
   },
 
@@ -109,39 +109,39 @@ export const personalInfo = [
   {
     id: 9,
     title: 'Github : ',
-    description: 'YSN-88',
+    description: 'github.com/Ysn-88',
   },
 
   {
     id: 10,
-    title: 'Langages : ',
-    description: 'French, English, German',
+    title: 'Sprachen : ',
+    description: 'Französisch, Englisch, Deutsch',
   },
 ];
 
 export const stats = [
   {
     id: 1,
-    no: '12+',
-    title: 'Years of <br /> Experience',
+    no: '3+',
+    title: 'Langjährige  <br /> Erfahrunge',
   },
 
   {
     id: 2,
-    no: '97+',
-    title: 'Completed <br /> Projects',
+    no: '12+',
+    title: 'Fertige <br /> Projekte',
   },
 
   {
     id: 3,
-    no: '81+',
-    title: 'Happy <br /> Customers',
+    no: '5+',
+    title: 'Zufriedene <br /> Kunden',
   },
 
   {
     id: 4,
-    no: '53+',
-    title: ' Awards <br /> Won',
+    no: '6+',
+    title: ' Programmier- <br />sprache',
   },
 ];
 
@@ -150,17 +150,17 @@ export const resume = [
     id: 1,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2018 - PRESENT',
-    title: 'Web Developer <span> Envato </span>',
-    desc: 'Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit,',
+    year: '2021- 2022',
+    title: 'Web Developer <span> Kite IT </span>',
+    desc: '[ ‘Vue.JS’, ‘Vuetify’, ‘ HTML’, ‘CSS’, ‘TypeScript‘, ‘Review‘,‘ Testing‘,‘ Git‘, ‘Jira‘]',
   },
 
   {
     id: 2,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2013 - 2018',
-    title: 'UI/UX Designer <span> Themeforest </span>',
+    year: '2015 - 2021',
+    title: 'UI/UX Designer <span> Freelance </span>',
     desc: 'Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt',
   },
 
@@ -168,8 +168,8 @@ export const resume = [
     id: 3,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2005 - 2013',
-    title: 'Consultant <span> Videohive </span>',
+    year: '2013 - 2019',
+    title: 'Koordinator Logistik <span> Rhenus/ Edeka </span>',
     desc: 'Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt',
   },
 
@@ -177,26 +177,26 @@ export const resume = [
     id: 4,
     category: 'education',
     icon: <FaGraduationCap />,
-    year: '2015',
-    title: 'Engineering Degree <span> Oxford University </span>',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore',
+    year: '2020 -2022',
+    title: 'Berufsausbildung <span> IHK Rhein-Neckar </span>',
+    desc: 'Fachinformatiker für Anwendungsentwicklung,  -Schwerpunkt [Java, SQL, HTML]',
   },
 
   {
     id: 5,
     category: 'education',
     icon: <FaGraduationCap />,
-    year: '2012',
-    title: 'Master Degree <span> KIEV University </span>',
-    desc: 'Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt',
+    year: '2009-2012',
+    title: 'Berufsausbildung <span> NTIC-Marokko </span>',
+    desc: 'Fachinformatiker für Anwendungsentwicklung -Schwerpunkt [VB, C++, HTML, CSS]',
   },
 
   {
     id: 6,
     category: 'education',
     icon: <FaGraduationCap />,
-    year: '2009',
-    title: 'Bachelor Degree <span> Tunis High School </span>',
+    year: '2005-2009',
+    title: 'Lycée Agadir <span> Marokko </span>',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore',
   },
 ];
@@ -205,13 +205,13 @@ export const skills = [
   {
     id: 1,
     title: 'Html',
-    percentage: 25,
+    percentage: 90,
   },
 
   {
     id: 2,
     title: 'Javascript',
-    percentage: 89,
+    percentage: 79,
   },
 
   {
@@ -222,7 +222,7 @@ export const skills = [
 
   {
     id: 4,
-    title: 'Php',
+    title: 'Java EE',
     percentage: 66,
   },
 
@@ -234,20 +234,20 @@ export const skills = [
 
   {
     id: 6,
-    title: 'Jquery',
-    percentage: 50,
+    title: 'Tailwind',
+    percentage: 60,
   },
 
   {
     id: 7,
-    title: 'Angular',
+    title: 'Vue js',
     percentage: 65,
   },
 
   {
     id: 8,
     title: 'React',
-    percentage: 45,
+    percentage: 65,
   },
 ];
 
