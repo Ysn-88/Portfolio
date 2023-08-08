@@ -13,7 +13,7 @@ const Home = () => {
       <img src={Profile} alt="" className="home__img" />
       <div className="home__content">
         <div className="home__data">
-          <h1 className="home__title"><span>Ich bin Yassine,</span> Web Entwickler</h1>
+          <h1 className="home__title"><span>hey, Ich bin Yassine,<br/></span> Web Entwickler👋</h1>
           
           <p className="home_description">Als Designer und Front-End-Entwickler  fokussiere ich mich auf die Gestaltung von ansprechenden 
           und nutzerfreundlichen Erfahrungen. Meine Leidenschaft liegt darin, exzellente Software zu schaffen, die das Leben der Menschen 
